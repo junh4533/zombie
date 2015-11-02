@@ -1,0 +1,1 @@
+The virus has spread worldwide! Zombie apocalypse begins. You were camping and you wake up in your tent.
