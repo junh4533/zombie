@@ -1,3 +1,3 @@
-Sadly you Die. "Rest in Peace"
+Sadly you're bad in fighting.They eat you alive. "Rest in Peace"
 
-[begin](../begin.md)
+[Restart your adventure!](../begin.md)
