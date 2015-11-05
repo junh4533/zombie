@@ -7,4 +7,3 @@ You have 4 choices, but dying is not an option!
 [Search for food](food/food.md)  
 [Go back to the tent](tent/tent.md)  
 
-[alt text](http://i.telegraph.co.uk/multimedia/archive/02690/Anne-Guichard_2690182k.jpg)
