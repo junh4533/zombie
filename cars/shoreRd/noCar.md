@@ -1,1 +1,1 @@
-Sadly, you didn't find a car and so you decide to search for [weapons](../weapons/weapon.md) instead!
+Sadly, you didn't find a car and so you decide to search for [weapons](../../weapons/weapon.md) instead!

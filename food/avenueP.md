@@ -1,1 +1,1 @@
-[You find a house! You decide to go in.](AvenueP/beans.md)
+[You find a house! You decide to go in.](AvenueP/house/beans.md)
