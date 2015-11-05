@@ -11,3 +11,5 @@ The liking files  is in between easy in hard because you have to know what folde
 [Mishell Torres](https://github.com/mishellt1023)
 
 [Begin your adventure!](begin.md)
+
+[cyoa](https://docs.google.com/drawings/d/1P19MInLeJUvY5lyf7KK4Z0aq91phNfMOCUXhkYrNB6o/edit)
