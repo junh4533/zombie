@@ -1,0 +1,1 @@
+You [run away.](run2/die2/die2.md)

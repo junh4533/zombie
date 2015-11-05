@@ -1,0 +1,1 @@
+[Inside the house, you find some canned beans!Now that you have food, let's go find a car!](../../cars/cars.md)

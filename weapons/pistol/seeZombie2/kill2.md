@@ -1,0 +1,1 @@
+You [shoot](kill2/shoot.md) the zombie!

@@ -1,1 +1,1 @@
-[You try to kill the zombie](die2/die2.txt)
+[You headshotted and killed the zombie. Now that you have a weapon, you decide to look for a car.](../../../cars/cars.md)
