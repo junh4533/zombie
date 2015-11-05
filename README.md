@@ -1,0 +1,1 @@
+The purpose of this project is to see how far we could get and also to put all our knowledge 
