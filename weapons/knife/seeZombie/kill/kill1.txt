@@ -1,0 +1,1 @@
+[You try to kill the zombie](die1/die1.txt)
