@@ -1,1 +1,1 @@
-You have decided to pick up the pistol! You turn around and you see a [_](pistol/seeZombie2.md)
+You have decided to pick up the pistol! You turn around and you see a [(click here to find out)](pistol/seeZombie2.md)
