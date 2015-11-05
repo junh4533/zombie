@@ -1,1 +1,1 @@
-You're at Main Street! As you continue walking, you see a [car](MainSt/car.txt)
+You're at Main Street! As you continue walking, you see a [car](MainSt/car.txt).
