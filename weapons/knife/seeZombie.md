@@ -1,4 +1,6 @@
-IF the Zombie is 2 feet away form you (only pick one)..
+The Zombie is 2 feet away from you.  
+You decide to....
 
-[kill](kill.md)
-[Run](run1.md)
+[kill it](seeZombie/kill.md)  
+[Run  away](seeZombie/run1.md)
+
