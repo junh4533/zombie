@@ -6,7 +6,7 @@ This purpose of this project is for us to practice collaboration while also lear
 By collaboration I mean practicing with our partners and by giving each others parts of the projects to work on.
 The linking files demonsrates our navigation skills using the terminal.
 
-Contributors:
+Contributors:  
 [Jun Huang](https://github.com/junh4533)  
 [Mishell Torres](https://github.com/mishellt1023)
 
