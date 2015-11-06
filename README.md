@@ -1,5 +1,5 @@
 
-##### CYOA Project
+##### CYOA project
 ________
 
 This purpose of this project is for us to practice collaboration while also learning how to link files.
