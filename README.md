@@ -2,9 +2,10 @@
 ##### CYOA project
 ________
 
-This purpose of this project is for us to practice collaboration while also learning how to link files.
-By collaboration I mean practicing with our partners and by giving each others parts of the projects to work on.
-The linking files demonsrates our navigation skills using the terminal.
+This purpose of this project is for us to practice collaborating in a project using C9 and Github
+while also learning how to link files. Collborating in a project tests our knowledge of the Gihub workflow
+and our ability in resolving merge conflicts.
+The linking files demonsrates our navigational skills using the terminal.
 
 Contributors:  
 [Jun Huang](https://github.com/junh4533)  
