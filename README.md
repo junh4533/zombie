@@ -3,9 +3,9 @@
 ________
 
 This purpose of this project is for us to practice collaborating in a project using C9 and Github
-while also learning how to link files. Collborating in a project tests our knowledge of the Gihub workflow
+while also learning how to link files. Collaborating in a project tests our knowledge of the Gihub workflow
 and our ability in resolving merge conflicts.
-The linking files demonsrates our navigational skills using the terminal.
+The linking files demonstrates our navigational skills using the terminal.
 
 Contributors:  
 [Jun Huang](https://github.com/junh4533)  
